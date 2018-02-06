@@ -1,0 +1,36 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+table, th, td {
+     border: 1px solid black;
+}
+
+a:hover {
+    color: #C00000;
+}
+
+a {
+    display: inline-block;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    margin: 5px;
+    padding: 5px;
+}
+
+li {
+    display: inline;
+}
+
+header div{
+    background-color: bisque;
+    text-align: center;
+}
+
+div span {
+    font-size: 3em;
+}
